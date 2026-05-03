@@ -6,3 +6,6 @@ console.log(login);
 
 const abc = xyx;
 console.log(abc);
+
+const cvv =CanvasCaptureMediaStreamTrack;
+console.log(cvv);
