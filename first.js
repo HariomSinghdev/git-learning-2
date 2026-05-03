@@ -6,3 +6,5 @@ console.log(login);
 
 const payment ="integrted the payment"
 console.log(payment);
+const upi ="integrated upi"
+console.log(upi);
