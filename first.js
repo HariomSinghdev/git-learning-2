@@ -11,3 +11,7 @@ console.log(upi);
 
 const footer ="footer added in our website"
 console.log(footer)
+
+const lpk = njsddndcsjdcnsdj;
+console.log("ndcsdncndscncncnn")
+
