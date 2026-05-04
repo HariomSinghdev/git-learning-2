@@ -15,3 +15,11 @@ console.log(footer)
 const lpk = njsddndcsjdcnsdj;
 console.log("ndcsdncndscncncnn")
 
+const abc = xyx;
+console.log(abc);
+
+const cvv =CanvasCaptureMediaStreamTrack;
+console.log(cvv);
+
+const vcvc = dccdvdfvfdvfdvfdv;
+console.log(vcvc);
